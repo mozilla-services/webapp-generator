@@ -1,0 +1,14 @@
+{
+    "name": "Mozilla HA Test Web App {{ hash }}",
+    "developer": {
+        "name": "Mozilla",
+        "url": "http://mozilla.org"
+    },
+    "description": "Test app for marketplace HA testing.",
+    "launch_path": "/",
+    "icons": {
+        "128": "/icon.png"
+    },
+    "default_locale": "en",
+    "version": "1"
+}

@@ -1,5 +1,5 @@
 {
-    "name": "Mozilla HA Test Web App {{ hash }}",
+    "name": "HA Test {{ hash }}",
     "developer": {
         "name": "Mozilla",
         "url": "http://mozilla.org"
